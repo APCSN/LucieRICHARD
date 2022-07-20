@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.5//EN
+N:Richard;Lucie;;;
+FN:Lucie Richard
+ORG:MATT IMMO CONSEIL;
+EMAIL;type=INTERNET;type=HOME;type=pref:lucie@mattimmoconseil.fr
+TEL;type=CELL;type=VOICE;type=pref:07 48 66 11 89
+item1.URL;type=pref:https://mattimmoconseil.fr
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
